@@ -26,7 +26,8 @@ The ZPD function works by creating an SVG group element (with id 'viewport' + n)
 Based on the [SVGPan](http://code.google.com/p/svgpan/) library created by Andrea Leofreddi.
 
 ## License
-
+	Copyright 2011 Griffin Boyce <griffin@griftastic.com> (Port to CoffeeScript, minor tweaks). All rights reserved.
+	Copyright 2010 Gabriel Zabusek <gabriel.zabusek@gmail.com> (Interface and feature extensions and modifications). All rights reserved.
 	Copyright 2010 Daniel Assange <somnidea@lemma.org> (Raphaël integration and extensions). All rights reserved.
 	Copyright 2009-2010 Andrea Leofreddi <a.leofreddi@itcharm.com> (original author). All rights reserved.
 	
